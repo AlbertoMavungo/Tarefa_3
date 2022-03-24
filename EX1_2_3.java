@@ -1,4 +1,4 @@
-public class EX2_1_3 {
+public class EX1_2_3 {
     public static void main(Integer [] args) {
         // declaração
         int contador;
@@ -8,6 +8,7 @@ public class EX2_1_3 {
         //operaçoes
         while (contador <= 100) {
           contador ++;
+          //imprimindo
           System.out.printf("%d\n",contador);
         }   
          
